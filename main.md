@@ -7,6 +7,14 @@ theme: custom
 
 ---
 
+## 🚨 注意事項
+
+今回の発表資料・発言内容は、すべて個人の見解です。
+
+所属企業、及びその方針・見解などとは一切無関係です。
+
+---
+
 # THE MODEL
 
 ![image](https://www.shoeisha.co.jp/static/book/campaign/the-model/images/title.jpg)
@@ -82,3 +90,7 @@ _backgroundColor: #f04600
     ### Take Ownership / Playful Challenge
 - 言うべき事は言う。聞くべき事は聞く。領海侵犯しろ。
     ### Integrity Driven / Beyond Boundaries
+
+---
+
+ご清聴ありがとうございました。

@@ -9,15 +9,13 @@ theme: custom
 
 # THE MODEL
 
-https://www.shoeisha.co.jp/book/campaign/the-model
+![image](https://www.shoeisha.co.jp/static/book/campaign/the-model/images/title.jpg)
 
 - 言わずと知れた SaaS のモデル
 
 - リード？FS？MRR？ARR？
 
-- 前職はリアルの世界を相手に働いていたので、この辺りの概念がなかった
-
-- リアルの世界の営業プロセスとは？
+- 前職はリアルの世界を相手に働いていたので、この辺りの概念がなかった。リアルの世界の営業プロセスは **YOT**
 
 ---
 
@@ -51,6 +49,36 @@ https://www.shoeisha.co.jp/book/campaign/the-model
 
 全て内製化 or OSS Self-hosting
 - BI
+- Digital Signage
+    - 表示と通信にデジタル技術を活用して平面ディスプレイやプロジェクタなどに映像や文字を表示する情報・広告媒体。
+    - Raspberry Pi とディスプレイを店舗に設置して、リモートでコンテンツを更新する
+    - 店舗への設置からハードウェア、ソフトウェア、コンテンツの制作まで全て内製化。声優も社員。動画制作も社員。
+
+---
+
+- Website
+    - 会社のウェブサイトは全て内製化。
+- Cashless App
+    - ネイティブアプリ、バックエンド、全銀システムの連携まで全て内製化。1年でリリース。
+- Shopping Cart
+    - アプリストアを使わず自社で配信。MongoDB の Hosting も自社で行う。
 - POS
 - CRM
 - ERP
+
+etc...
+
+---
+
+<!--
+_backgroundColor: #f04600
+-->
+
+## 永⚪︎五訓
+
+一部抜粋
+
+- 決まったら迷うことなく絶対実行。
+    ### Take Ownership / Playful Challenge
+- 言うべき事は言う。聞くべき事は聞く。領海侵犯しろ。
+    ### Integrity Driven / Beyond Boundaries

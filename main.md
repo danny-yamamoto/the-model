@@ -118,7 +118,15 @@ etc...
 ---
 
 ## （次回予告）
-エピソード 2：無⚪︎店舗の逆襲
+エピソード 2：サ⚪︎ソンの帰還
+
+---
+
+![image](https://image.maruzenjunkudo.co.jp/item/1/324/2842/2726/28422726_01.jpg)
+
+---
+
+![image](https://www.diamond.co.jp/book/p74hs00000004zyq-img/9784478110744.jpg)
 
 ---
 
